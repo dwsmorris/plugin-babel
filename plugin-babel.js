@@ -1,3 +1,4 @@
+var f = 9;
 var babel = require('systemjs-babel-build').babel;
 
 // the SystemJS babel build includes standard presets
